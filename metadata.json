@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Registro de Eventos con QR",
+  "description": "Una aplicación para el registro de asistencia a eventos mediante el escaneo de códigos QR. Verifica los ID de los asistentes, actualiza su estado y proporciona un informe de asistencia en tiempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
